@@ -34,7 +34,7 @@ Before uploading the sketch, you must update the following #define settings in t
 	
 	// --- InfluxDB Configuration  ---
 	#define INFLUXDB_URL "http://xxx.xxx.xxx.xxx:8086" 		// Influx Database IP address and port
-	#define INFLUXDB_TOKEN "NFLUX_TOKEN"               		// InfluxDB API token
+	#define INFLUXDB_TOKEN "INFLUX_TOKEN"             		// InfluxDB API token
 	#define INFLUXDB_ORG "xxx"                       	  	// Influx Organization name
 	#define INFLUXDB_BUCKET "xxx"              				// Influx bucket name
 	Operational Modes
