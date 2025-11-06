@@ -70,3 +70,5 @@ Configure: Update the credentials in the sketch as described above.
 Upload: Select the correct board and port, and upload the sketch to your ESP8266.
 
 Monitor: Open the Serial Monitor (set to 9600 baud) to track connection status and data readings (if DEBUG is enabled).
+
+Author: Alessandro Pavan
